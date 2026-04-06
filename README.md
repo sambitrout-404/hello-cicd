@@ -1,2 +1,1 @@
-Hello CI/CD!
-This is my CI/CD learning project.
+Branch A was here
